@@ -27,7 +27,7 @@ The application is fully containerized with Docker and deployed live on Hugging 
 ##Local Installation
 To run this project on your local machine:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/SheemaWani/NeuroScan-AI.git](https://github.com/SheemaWani/NeuroScan-AI.git)
-   cd NeuroScan-AI
+Names of Contributors:
+Sheema Wani
+Abesh Biswas 
+Zobia Riyaz
